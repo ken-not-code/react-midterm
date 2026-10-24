@@ -10,7 +10,7 @@ export default function App() {
     <main style={{ padding: "2rem", fontFamily: "Arial" }}>
       <h1>Midterm Calculator</h1>
       <p>Students: Nico Par, Ken Saldua </p>
-      <p>Application Version: 1.0</p>
+      <p>Application Version: 2.0</p>
       <div>
         <label>
           First number:
